@@ -1,16 +1,20 @@
 <a href="https://t.me/mr_exists" target="_blank">![Artem Myra](assets/logo.jpg)</a>
 
-<!--
-**Mr-etc/Mr-etc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__About me:__
+Hello. I am a novice developer. During the training period, I tried myself as a Frontend and Backend developer. This profession has sunk into my soul very much, that I really want to develop further in the direction of development.
 
-Here are some ideas to get you started:
+__Skills:__
+* __Frontend development__
+    * Html
+    * Css (Sass)
+    * JavaScript (JQuery, Ajax)
+* __Backend development__
+    * PHP (MVC)
+    * Data base (SQL, MySql)
+* __Desktop applications__
+    * C# (Windows forms, WPF)
+    * C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__Contacts:__
+* Email: [art.myra@yandex.ru](mailto:art.myra@yandex.ru)
+* Telegram: [mr_exists](https://t.me/mr_exists)
