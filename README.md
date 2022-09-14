@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://t.me/mr_exists" target="_blank">![Artem Myra](assets/logo.jpg)</a>
 
 <!--
 **Mr-etc/Mr-etc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
