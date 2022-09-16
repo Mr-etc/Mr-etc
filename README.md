@@ -18,3 +18,4 @@ __Skills:__
 __Contacts:__
 * Email: [art.myra@yandex.ru](mailto:art.myra@yandex.ru)
 * Telegram: [mr_exists](https://t.me/mr_exists)
+* Resume: [Word Document](https://disk.yandex.ru/i/NTFS3S3zeIBjNA)
