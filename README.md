@@ -14,6 +14,7 @@ __Skills:__
 * __Desktop applications__
     * C# (Windows forms, WPF)
     * C++
+* Git
 
 __Contacts:__
 * Email: [art.myra@yandex.ru](mailto:art.myra@yandex.ru)
